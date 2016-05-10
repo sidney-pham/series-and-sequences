@@ -3,4 +3,4 @@ please use this if ur really dumb and want to (not) learn about series and seque
 
 ----------------------
 #### PLEASE NOTE:
-This is *NOT* actually fully functional. It's like 10% working. If you actually want to learn about Series and Sequences contact [@quadrupleslap](www.github.com/quadrupleslap) for a copy of an ACTUAL program
+This is *NOT* actually fully functional. It's like 10% working. If you actually want to learn about Series and Sequences contact [@quadrupleslap](https://www.github.com/quadrupleslap) for a copy of an ACTUAL program
