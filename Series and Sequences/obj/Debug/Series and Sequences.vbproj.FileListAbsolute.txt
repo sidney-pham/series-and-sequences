@@ -1,0 +1,31 @@
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.exe.config
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.exe
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.pdb
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.xml
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.vbprojResolveAssemblyReference.cache
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formExplore.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formLearn.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formMain.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formReview.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formTopic1.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.Resources.resources
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.vbproj.GenerateResource.Cache
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.exe
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.xml
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.pdb
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.exe.config
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.exe
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.xml
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.pdb
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.exe
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.pdb
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\bin\Debug\Series and Sequences.xml
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formExplore.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formLearn.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formMain.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formReview.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.Resources.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series and Sequences.vbproj.GenerateResource.Cache
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formTopic.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Series and Sequences\Series and Sequences\obj\Debug\Series_and_Sequences.formExploreInsideLearn.resources
